@@ -6,6 +6,10 @@
 
 @import url('https://fonts.cdnfonts.com/s/90371/ICARubrikBlack.woff');
 @import url('https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff');
+
+body{
+    background-color: black;
+}
 .banner{
     width: 100%;
     height: 100vh;
@@ -86,8 +90,12 @@
 }
 
 .banner .content h2{
-    font-size: 2.0em;
+    font-size: 1.6em;
     color: blue;
+}
+
+.banner .content p{
+    color: white;
 }
 
 .banner .content .model{

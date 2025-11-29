@@ -68,7 +68,7 @@ body{
 
 .banner .content h1{
     font-family: 'ICA RUBRIK';
-    font-size: 12em;
+    font-size: 10em;
     line-height: 1em;
     color: #25283b;
     position: relative;
@@ -90,7 +90,7 @@ body{
 }
 
 .banner .content h2{
-    font-size: 1.6em;
+    font-size: 1.8em;
     color: blue;
 }
 
@@ -100,7 +100,7 @@ body{
 
 .banner .content .model{
     background-image: url(img/ft-14.1.png);
-    width: 107%;
+    width: 125%;
     height: 80vh;
     position: absolute;
     bottom: 0;

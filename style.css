@@ -22,7 +22,7 @@ body{
     position: absolute;
     width: 200px;
     height: 250px;
-    top: 10%;
+    top: 12%;
     left: calc(50% - 100px);
     transform-style: preserve-3d;
     transform: perspective(1000px);
@@ -68,7 +68,7 @@ body{
 
 .banner .content h1{
     font-family: 'ICA RUBRIK';
-    font-size: 10em;
+    font-size: 100em;
     line-height: 1em;
     color: #25283b;
     position: relative;
@@ -86,22 +86,23 @@ body{
 .banner .content .autor{
     font-family: 'POPPINS';
     text-align: center;
-    max-width: 200px;
+    max-width: 120px;
 }
 
 .banner .content h2{
-    font-size: 1.8em;
+    font-size: 1.6rem;
     color: blue;
 }
 
 .banner .content p{
     color: white;
+    font-size: 1em;
 }
 
 .banner .content .model{
     background-image: url(img/ft-14.1.png);
-    width: 125%;
-    height: 80vh;
+    width: 130%;
+    height: 70vh;
     position: absolute;
     bottom: 0;
     left: 0;

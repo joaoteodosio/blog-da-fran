@@ -27,9 +27,9 @@
 
 @keyframes autoRun{
     from{
-        transform: perspective(1000px) rotateX(-16deg) rotateY(0deg);
+        transform: perspective(1000px) rotateX(-15deg) rotateY(0deg);
     }to{
-        transform: perspective(1000px) rotateX(-16deg) rotateY(360deg);
+        transform: perspective(1000px) rotateX(-15deg) rotateY(360deg);
     }
 }
 
@@ -59,7 +59,7 @@
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
-    z-index: 2;
+    z-index: 1;
 }
 
 .banner .content h1{
@@ -91,7 +91,7 @@
 }
 
 .banner .content .model{
-    background-image: url(img/ft-14.png);
+    background-image: url(img/fran-14.png);
     width: 107%;
     height: 80vh;
     position: absolute;
